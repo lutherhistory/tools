@@ -27,16 +27,16 @@ gcc -o dev-counter main.c
 
 ./dev-counter sample.txt
 
-name: 'your-text-file.txt'
+# name: 'your-text-file.txt'
 
-char: 0
-newl: 0
-spac: 0
-line: 0
+# char: 0
+# newl: 0
+# spac: 0
+# line: 0
 
-a: 0
-e: 0
-h: 0
-l: 0
-o: 0
+# a: 0
+# e: 0
+# h: 0
+# l: 0
+# o: 0
 ```
